@@ -24,7 +24,7 @@ QMFI - f(R⁶ · ℒ⁵) Research.
 ---
 
 ```
-(_t_double_complex)(/ dim=1 /((/ dim=0 */ __Ψ_Q6 = f(R⁶ · ℒ⁵) · pp_crit = 1.10
+                                   (_t_double_complex)(/ dim=1 /((/ dim=0 */ __Ψ_Q6 = f(R⁶ · ℒ⁵) · pp_crit = 1.10
 ```
 
 ---

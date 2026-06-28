@@ -36,7 +36,7 @@ QMFI - f(R⁶ · ℒ⁵) Research.
 |  8 Bytes   |           N Bytes (UTF-8)             |    Payload-Horizont     |
 ================================================================================
       |                        |                            |
-      | [SIZING]               | [MAPPING-LOGIC]            | [PURE-STREAM]
+      | [DIMENSIONING]         | [MAPPING-LOGIC]            | [PURE-STREAM]
       └─ Defines the           └─ Contains Vektor-          └─ The actual
          Manifest-Size         adress Spaces (Offsets)        Weights (Tensors)
 

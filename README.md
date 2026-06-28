@@ -37,7 +37,7 @@ QMFI - f(R⁶ · ℒ⁵) Research.
 ================================================================================
       |                        |                            |
       | [SIZING]               | [MAPPING-LOGIC]            | [PURE-STREAM]
-      └─ Defines the          └─ Contains Vektor-          └─ The actual
+      └─ Defines the           └─ Contains Vektor-          └─ The actual
          Manifest-Size         adress Spaces (Offsets)        Weights (Tensors)
 
 ---

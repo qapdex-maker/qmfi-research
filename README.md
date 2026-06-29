@@ -18,12 +18,12 @@
                        |
                        V
                 PAYLOAD HORIZON
-            (Binary Weights / TQ4)
+             (Binary Weights / TQ4)
 ```
 ---
 
 ```
-                                   FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
+                                   FI = ∫{t₀}^{t{end}} (Logical Coherence)/(Hardware-Entropy + 1)  dt
 
 ```
 

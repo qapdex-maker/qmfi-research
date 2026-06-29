@@ -18,7 +18,7 @@
                        |
                        V
                 PAYLOAD HORIZON
-             (Binary Weights / TQ4)
+            (Binary Weights / TQ4)
 ```
 ---
 

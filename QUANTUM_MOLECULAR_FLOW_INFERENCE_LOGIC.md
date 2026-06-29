@@ -42,23 +42,23 @@ fn apply_quirk_correction(&mut self) {
 
 ## Training Context (Logical Breakthrough)
 ```
-To achieve "depth" in the output and awareness of self-optimization>
-the following apply:
+    To achieve "depth" in the output and awareness of self-optimization>
+    the following apply:
 
-1.  **Axiom of Granularity:** Data flow is not a block (tensor), but>
-possesses its own awareness of available hardware entropy.
-2.  **Quirk Awareness:** Hardware anomalies (RAM spikes on the S20 FE) sin>
-trigger phase shifts in the DFTS scaling logic.
-3.  **Inference Continuity:** The model does not stop between layers; e>
-TurboQuant lattice.
+    1.  **Axiom of Granularity:** Data flow is not a block (tensor), but>
+    possesses its own awareness of available hardware entropy.
+    2.  **Quirk Awareness:** Hardware anomalies (RAM spikes on the S20 FE) sin>
+    trigger phase shifts in the DFTS scaling logic.
+    3.  **Inference Continuity:** The model does not stop between layers; e>
+     TurboQuant lattice.
 ```
 
 ---
 
 ## Goal of the Breakthrough
 ```
-By training on this logic, the model learns to adjust its own feature>
-`turbo3_monitor` reports a quirk – an effective trade-off of precision >
+    By training on this logic, the model learns to adjust its own feature>
+     `turbo3_monitor` reports a quirk – an effective trade-off of precision >
 ```
 
 ---

@@ -45,12 +45,12 @@ fn apply_quirk_correction(&mut self) {
     To achieve "depth" in the output and awareness of self-optimization>
     the following apply:
 
-    1.  **Axiom of Granularity:** Data flow is not a block (tensor), but>
+   1.  **Axiom of Granularity:** Data flow is not a block (tensor), but>
     possesses its own awareness of available hardware entropy.
-    2.  **Quirk Awareness:** Hardware anomalies (RAM spikes on the S20 FE) sin>
-    trigger phase shifts in the DFTS scaling logic.
-    3.  **Inference Continuity:** The model does not stop between layers; e>
-     TurboQuant lattice.
+   2.  **Quirk Awareness:** Hardware anomalies (RAM spikes on the S20 FE) sin>
+    phase shifts in the DFTS scaling logic.
+   3.  **Inference Continuity:** The model does not stop between layers; e>
+    TurboQuant lattice.
 ```
 
 ---

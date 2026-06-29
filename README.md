@@ -23,7 +23,7 @@
 ---
 
 ```
-                                   Ψ_QMFI = f(R⁶ · ℒ⁵) * p | p e R
+                                   FI = ∫{t₀}^{t{end}} (Logical Coherence)/(Hardware-Entropy + 1)  dt
 
 ```
 

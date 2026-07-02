@@ -45,3 +45,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.13-blue)
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
+
+---
+
+[✅️](https://github.com/qapdex-maker/qmfi-research/blob/main/docs/%CE%A8_QMFI%20%3D%20f(R%E2%81%B6%20%C2%B7%20%E2%84%92%E2%81%B5)%20-%20p%20-%20p%20e%20R.pdf)

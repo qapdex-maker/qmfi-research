@@ -48,4 +48,4 @@
 
 ---
 
-[✅️](https://github.com/qapdex-maker/qmfi-research/blob/main/docs/%CE%A8_QMFI%20%3D%20f(R%E2%81%B6%20%C2%B7%20%E2%84%92%E2%81%B5)%20-%20p%20-%20p%20e%20R.pdf)
+[✅️](https://github.com/qapdex-maker/qmfi-research/blob/main/docs/gpai-QMFI-Wavefunction-in-High-Dimensional-Space.pdf)

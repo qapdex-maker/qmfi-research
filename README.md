@@ -1,4 +1,5 @@
-# Ψ_QMFI = f(R⁶ · ℒ⁵) * p | p e R
+
+![QMFI](https://github.com/qapdex-maker/qmfi-research/blob/main/images/Screenshot_20260716_223306_Edge.jpg)
 
 ---
 
